@@ -1,0 +1,79 @@
+	
+	main{height: 100%;
+		width: 70%;
+		margin: 25px auto;
+		padding: 75px;
+		border:2px black solid;
+		border-radius: 20px/20px;
+		box-sizing: border-box;}
+	
+	header{border:2px black solid;
+		width: 70%;
+		height: 10%;
+		margin: 10px  auto;
+		box-sizing: border-box;
+		background-color: #7B9E87;}
+		
+	nav{border:2px black solid;
+		width: 70%;
+		height: 10%;
+		margin: 10px  auto;
+		box-sizing: border-box;}
+	
+	footer{
+		border:2px black solid;
+		width: 70%;
+		height: 10%;
+		margin: 10px  auto;
+		box-sizing: border-box;
+		background-color: #B6BE9C;}
+		
+	.link {width: 100%;
+		height: 10%;
+		top: 50%;
+		margin: auto;
+		box-sizing: border-box;}
+	
+	aside{background-color: #D2D0BA;}
+	
+	nav{background-color: #E5C1BD;
+		text-align: center;}
+	
+	body{background-color: #D2D0BA;}
+	
+	#header{text-align: center;}
+	
+	h1, h2, h3, h4, h5, h6{
+		background-color:#388697;
+		font-family: Georgia, serif;
+	}
+	
+	p{color:black; 
+		font-family: Georgia, serif;
+		font-size: 16px;}
+	
+	.fighead{font-weight: bold;
+		text-align: Center;
+		font-family: Georgia, serif;}
+	
+	figcaption{ text-align: Center;
+		font-family: Georgia, serif;}
+		
+	.imgcenter{padding: 75px;
+		width:250px; 
+		height:200px;
+		margin: 10px auto;
+		}
+	
+	a:link,  a:visited{
+		text-decoration: none; 
+		color: white;
+	 }
+	 
+	 a:hover, a:active{
+		 text-decoration: underline;
+	 color: black;}
+	 
+	 .tb{ border-color: black;}
+	 .tb th{ background:#F2542D; color:#F5DFBB;}
+	 .tb td{ background:#F5DFBB;}
